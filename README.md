@@ -1,5 +1,6 @@
 # dutch-treat-app
 割り勘アプリを作る
+<br>
 最初は勉強＆慣れるためにもReactでWeb向けの開発をしつつ、慣れてきたらReact Native使ってNativeアプリの方の開発もしていく
 
 ## 進め方
