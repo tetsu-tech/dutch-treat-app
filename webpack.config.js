@@ -4,7 +4,7 @@ module.exports = {
     mode: 'development',
 
     // 環境によってはsrc/index.ts
-    entry: 'src/index.tsx',
+    entry: './ReactWeb/src/index.tsx',
 
     module: {
         rules: [
