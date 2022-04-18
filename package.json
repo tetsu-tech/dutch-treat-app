@@ -1,0 +1,14 @@
+{
+  "name": "dutch-treat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tetsu-tech/dutch-treat-app.git",
+  "author": "dano <sf.ht.py1024@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "@babel/preset-typescript": "^7.16.7"
+  }
+}
