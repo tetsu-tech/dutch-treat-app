@@ -20,4 +20,7 @@ module.exports = {
             '.ts', '.js', '.tsx', '.jsx'
         ],
     },
+    devServer: {
+        historyApiFallback: true
+    },
 };
